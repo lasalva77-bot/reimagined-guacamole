@@ -1,0 +1,1 @@
+METODO AUTO APK - Sube esta carpeta a GitHub y te compila la APK sola. Instrucciones: 1- github.com/new crea repo VoxGuard 2- upload files arrastra esta carpeta 3- Actions espera 3 min 4- descarga APK en Artifacts
